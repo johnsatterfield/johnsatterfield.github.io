@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to John Satterfield's ePortfolio
 
-You can use the [editor on GitHub](https://github.com/johnsatterfield/johnsatterfield.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This professional ePortfolio will showcase my skills and abilities from the Computer Science program.  It will contain an artifact demonstrating my skills and abilities in three key categories:
+* Software design and engineering
+* Algorithms and data structure
+* Databases
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Additionally, this ePortfolio will contain the following:
+* Informal code review
+* Enhanced artifacts
+* Artifact narratives
+* Professional self-assessment
 
-### Markdown
+## Informal Code Review
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Link to code review](https://youtu.be/eeJp53gdm24)
 
-```markdown
-Syntax highlighted code block
+My code review addresses the following:
+* **Existing functionality:** Identify what the code is, what it does, and how it works.
+* **Code Analysis:** Review the code structure, code efficiencies, and code documentation.
+* **Look for enhancement:** Walk through and explain planned enhancements
 
-# Header 1
-## Header 2
-### Header 3
+## Artifacts
 
-- Bulleted
-- List
+The artifacts I've chosen represent my growth in the Computer Science program, demonstrating enhancements in the following categories: software design and engineering, algorithm and data structures, and databases. For each artifact in my ePortfolio, I will provide a narrative to accompany the artifact itself. These narratives will explain why I included the artifact in my ePortfolio and reflect on the process I used to create the artifact.
 
-1. Numbered
-2. List
+### Software Design and Engineering
 
-**Bold** and _Italic_ and `Code` text
+Talk about artifact, narrative, and link to commit
 
-[Link](url) and ![Image](src)
-```
+### Algorithm and Data Structures
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Talk about artifact, narrative, and link to commit
 
-### Jekyll Themes
+### Databases
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johnsatterfield/johnsatterfield.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Talk about artifact, narrative and link to commit
