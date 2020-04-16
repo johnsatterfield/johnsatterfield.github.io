@@ -6,10 +6,10 @@ This professional ePortfolio will showcase my skills and abilities from the Comp
 * Databases
 
 Additionally, this ePortfolio will contain the following:
+* Professional self-assessment
 * Informal code review
 * Enhanced artifacts
 * Artifact narratives
-* Professional self-assessment
 
 ## Informal Code Review
 
@@ -19,6 +19,11 @@ My code review addresses the following:
 * **Existing functionality:** Identify what the code is, what it does, and how it works.
 * **Code Analysis:** Review the code structure, code efficiencies, and code documentation.
 * **Look for enhancement:** Walk through and explain planned enhancements
+
+## Professional Self-Assessment
+
+The professional self-assessment reflects on the capstone and my experience in the Computer Science program as a whole.
+[Link to professional self-assessment](#)
 
 ## Artifacts
 
@@ -34,4 +39,4 @@ The artifacts I've chosen represent my growth in the Computer Science program, d
 
 ### Databases
 
-Talk about artifact, narrative and link to commit
+[Link to Github artifact](#)
