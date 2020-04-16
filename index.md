@@ -26,11 +26,11 @@ The artifacts I've chosen represent my growth in the Computer Science program, d
 
 ### Software Design and Engineering
 
-Talk about artifact, narrative, and link to commit
+[Link to Github artifact](https://github.com/johnsatterfield/StudentGradeSystem)
 
 ### Algorithm and Data Structures
 
-Talk about artifact, narrative, and link to commit
+[Link to Github artifact](https://github.com/johnsatterfield/DSAG)
 
 ### Databases
 
