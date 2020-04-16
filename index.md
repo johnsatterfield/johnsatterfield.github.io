@@ -11,6 +11,11 @@ Additionally, this ePortfolio will contain the following:
 * Enhanced artifacts
 * Artifact narratives
 
+## Professional Self-Assessment
+
+The professional self-assessment reflects on the capstone and my experience in the Computer Science program as a whole.
+[Link to professional self-assessment](#)
+
 ## Informal Code Review
 
 [Link to code review](https://youtu.be/eeJp53gdm24)
@@ -19,11 +24,6 @@ My code review addresses the following:
 * **Existing functionality:** Identify what the code is, what it does, and how it works.
 * **Code Analysis:** Review the code structure, code efficiencies, and code documentation.
 * **Look for enhancement:** Walk through and explain planned enhancements
-
-## Professional Self-Assessment
-
-The professional self-assessment reflects on the capstone and my experience in the Computer Science program as a whole.
-[Link to professional self-assessment](#)
 
 ## Artifacts
 
