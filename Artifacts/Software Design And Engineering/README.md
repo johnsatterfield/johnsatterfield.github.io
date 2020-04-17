@@ -2,8 +2,7 @@
 
 Artifact: Software Design and Engineering
 
-* [Link to Artifact](https://github.com/johnsatterfield/johnsatterfield.github.io/tree/master/Artifacts/Software%20Design%20And%20Engineering)
-* [Back to ePortfolio](https://johnsatterfield.github.io/)
+[Back to ePortfolio](https://johnsatterfield.github.io/)
 
 **Describe the artifact**
 
