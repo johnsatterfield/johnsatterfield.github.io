@@ -32,12 +32,12 @@ The artifacts I've chosen represent my growth in the Computer Science program, d
 
 ### Software Design and Engineering
 
-[Link to Github artifact](https://github.com/johnsatterfield/StudentGradeSystem)
+[Link to Github artifact](https://github.com/johnsatterfield/johnsatterfield.github.io/tree/master/Artifacts/Software%20Design%20And%20Engineering)
 
 ### Algorithm and Data Structures
 
-[Link to Github artifact](https://github.com/johnsatterfield/DSAG)
+[Link to Github artifact](https://github.com/johnsatterfield/johnsatterfield.github.io/tree/master/Artifacts/Data%20Structures%20And%20Algorithms)
 
 ### Databases
 
-[Link to Github artifact](#)
+[Link to Github artifact](https://github.com/johnsatterfield/johnsatterfield.github.io/tree/master/Artifacts/Databases)
