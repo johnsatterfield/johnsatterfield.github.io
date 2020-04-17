@@ -2,7 +2,7 @@
 // Name        : JSatterfield_DataStructuresAlgorithms.cpp
 // Author      : John Satterfield
 // Version     : 1.0
-// Copyright   : Copyright © 2017 SNHU COCE
+// Copyright   : Copyright Â© 2017 SNHU COCE
 //============================================================================
 
 #include <algorithm>
