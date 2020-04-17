@@ -32,9 +32,7 @@ The artifacts I've chosen represent my growth in the Computer Science program, d
 
 ### Software Design and Engineering
 
-[Link to artifact narrative](https://johnsatterfield.github.io/tree/master/Artifacts/Software%20Design%20And%20Engineering/narrative.md)
-
-[Link to Github artifact](https://github.com/johnsatterfield/johnsatterfield.github.io/tree/master/Artifacts/Software%20Design%20And%20Engineering)
+[Link to Github artifact and narrative](https://github.com/johnsatterfield/johnsatterfield.github.io/tree/master/Artifacts/Software%20Design%20And%20Engineering)
 
 ### Algorithm and Data Structures
 
