@@ -14,6 +14,7 @@ Additionally, this ePortfolio will contain the following:
 ## Professional Self-Assessment
 
 The professional self-assessment reflects on the capstone and my experience in the Computer Science program as a whole.
+
 [Link to professional self-assessment](#)
 
 ## Informal Code Review
