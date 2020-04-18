@@ -14,8 +14,10 @@
       <h1 class="project-name"><a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title | escape }}</a></h1>
       <h2 class="project-tagline"></h2>
       {% for page in site.pages %}
-        <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
+        <a href="{{ page.filename }}" class="btn">{{ page.title }}</a>
       {% endfor %}
+      <a href="/pa" class="btn">Professional Assessment</a>
+      <a href="https://youtu.be/eeJp53gdm24" target="_blank" class="btn">Code Review</a>
     </section>
 
     <section class="main-content">
