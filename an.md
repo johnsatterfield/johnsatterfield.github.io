@@ -1,5 +1,5 @@
 ---
-layout: teamplate
+layout: template
 title: Artifacts and Narratives
 filename: an
 ---
