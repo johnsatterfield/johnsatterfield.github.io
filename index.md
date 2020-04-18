@@ -22,7 +22,7 @@ The professional self-assessment reflects on the capstone and my experience in t
 
 ## Informal Code Review
 
-[Link to code review](/cr)
+[Link to code review and refinement plan](/cr)
 
 My code review addresses the following:
 * **Existing functionality:** Identify what the code is, what it does, and how it works.
@@ -33,14 +33,4 @@ My code review addresses the following:
 
 The artifacts I've chosen represent my growth in the Computer Science program, demonstrating enhancements in the following categories: software design and engineering, algorithm and data structures, and databases. For each artifact in my ePortfolio, I will provide a narrative to accompany the artifact itself. These narratives will explain why I included the artifact in my ePortfolio and reflect on the process I used to create the artifact.
 
-### Software Design and Engineering
-
-[Link to Github artifact and narrative](https://johnsatterfield.github.io/StudentGradeSystem)
-
-### Algorithm and Data Structures
-
-[Link to Github artifact and narrative](https://johnsatterfield.github.io/DSAG)
-
-### Databases
-
-[Link to Github artifact and narrative](https://johnsatterfield.github.io/Artifacts/Databases)
+[Link to artifacts and narratives](/an)
