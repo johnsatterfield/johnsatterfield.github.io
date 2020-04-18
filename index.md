@@ -12,7 +12,7 @@ This professional ePortfolio will showcase my skills and abilities from the Comp
 Additionally, this ePortfolio will contain the following:
 * [Professional self-assessment](#professional-self-assessment)
 * [Informal code review](#informal-code-review)
-* [Enhanced artifacts and narratives](artifacts-and-narratives)
+* [Enhanced artifacts and narratives](#artifacts-and-narratives)
 
 ## Professional Self-Assessment
 
