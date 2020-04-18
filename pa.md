@@ -1,6 +1,7 @@
 ---
 title: Professional Assessment
-layout: page
+layout: template
+filename: pa
 ---
 
 Details coming soon!
