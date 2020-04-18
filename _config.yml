@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 title: Welcome to John Satterfield’s ePortfolio
 description: A collection of my projects.
+layout: template
