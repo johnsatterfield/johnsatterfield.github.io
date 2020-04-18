@@ -1,3 +1,7 @@
+---
+has_toc: true
+---
+
 This professional ePortfolio will showcase my skills and abilities from the Computer Science program.  It will contain an artifact demonstrating my skills and abilities in three key categories:
 * Software design and engineering
 * Algorithms and data structure
