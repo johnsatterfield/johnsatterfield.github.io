@@ -10,10 +10,9 @@ This professional ePortfolio will showcase my skills and abilities from the Comp
 * Databases
 
 Additionally, this ePortfolio will contain the following:
-* Professional self-assessment
-* Informal code review
-* Enhanced artifacts
-* Artifact narratives
+* [Professional self-assessment](/#Professional)
+* [Informal code review](#Informal)
+* [Enhanced artifacts and narratives](#Artifacts)
 
 ## Professional Self-Assessment
 
@@ -23,7 +22,7 @@ The professional self-assessment reflects on the capstone and my experience in t
 
 ## Informal Code Review
 
-[Link to code review](https://youtu.be/eeJp53gdm24)
+[Link to code review](/cr)
 
 My code review addresses the following:
 * **Existing functionality:** Identify what the code is, what it does, and how it works.
