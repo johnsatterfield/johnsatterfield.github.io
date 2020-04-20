@@ -16,4 +16,4 @@ The artifacts I've chosen represent my growth in the Computer Science program, d
 
 ### Databases
 
-[Link to Github artifact and narrative](https://johnsatterfield.github.io/Artifacts/Databases)
+[Link to Github artifact and narrative](https://johnsatterfield.github.io/myLibrary/)
